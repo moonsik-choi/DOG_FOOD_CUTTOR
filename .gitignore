@@ -1,0 +1,12 @@
+# IAR Build Output
+Debug/
+Release/
+
+# IAR Settings
+settings/
+
+# IAR dependency files
+*.dep
+
+# IAR workspace user settings
+*.ewt
